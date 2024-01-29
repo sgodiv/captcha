@@ -1,8 +1,8 @@
-Captcha Plugin for Elgg 4.2 and newer Elgg 4.X
+Captcha Plugin for Elgg 4.3 and newer Elgg 4.X
 ==============================================
 
-Latest Version: 4.2.0  
-Released: 2022-05-28  
+Latest Version: 4.3.0  
+Released: 2023-01-29  
 Contact: iionly@gmx.de  
 Website: https://github.com/iionly  
 License: GNU General Public License version 2  
@@ -13,7 +13,7 @@ Description
 -----------
 
 Provides captcha support (Requires the php_gd library).
-
+Only change made to iiolny's originalversion is I updated composer.json to include v4.3. appears to be fully fuctional in v4.3
 
 Installation and configuration
 ------------------------------
